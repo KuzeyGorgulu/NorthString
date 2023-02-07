@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NorthString
+- 👋 Hi, I’m @KuzeyGorgulu
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning Python, HTML, CSS
 - 📫 How to reach me: You can easily send an e-mail to gorgulukuzey@gmail.com mail account!
