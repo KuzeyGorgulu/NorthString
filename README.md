@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KuzeyGorgulu
-- 👀 I’m interested in coding!
+- 👀 I’m interested in coding and electronics!
 - 🌱 I’m currently learning Python, HTML, CSS, and game development with Unity and C#
 - 📫 How to reach me: You can easily send an e-mail to gorgulukuzey@gmail.com mail account!
 
